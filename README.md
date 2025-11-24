@@ -12,9 +12,8 @@
 
  #Technologies / Tools Used
 - Programming Language: Python (you can change this if your project is in another language)
-- Editor: VS Code
-- Storage: JSON / CSV / File system (depending on what you used)
-- Git and GitHub for version control
+- jupyter 
+-  GitHub 
 
 #Steps to Install & Run the Project
 -Steps to Install & Run the Project (Python Version)
@@ -45,12 +44,5 @@ output
 <img width="1920" height="1080" alt="Screenshot (150)" src="https://github.com/user-attachments/assets/986cd94e-a4bf-4e31-a6b3-19a00ddb1e9f" />
 <img width="1920" height="1080" alt="Screenshot (151)" src="https://github.com/user-attachments/assets/22bcad79-a7f3-44cf-831f-c8f1e45902b5" />
 <img width="1920" height="1080" alt="Screenshot (152)" src="https://github.com/user-attachments/assets/c9c3126a-1eff-4949-b668-9a63dfeef269" />
-
-
-
-
-
-
-
 
 6. The program will start in the terminal, and you can follow the menu options to use the system.
