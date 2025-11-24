@@ -36,7 +36,6 @@ Open the “view all students” option to confirm all records are displayed cor
 #Screenshots
 code
 <img width="1920" height="1080" alt="Screenshot (146)" src="https://github.com/user-attachments/assets/0db11110-60e1-47bd-9461-21b56e8bed94" />
-<img width="1920" height="1080" alt="Screenshot (147)" src="https://github.com/user-attachments/assets/c210e424-c2c4-44d2-b04d-c0ed7bab4602" />
 <img width="1920" height="1080" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/300967d4-aedc-470c-b9e5-67457d99decd" />
 <img width="1920" height="1080" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/7a65f3d6-319e-4952-882e-b14224394ad0" />
 
