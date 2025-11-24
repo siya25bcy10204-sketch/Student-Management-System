@@ -1,6 +1,6 @@
 # Student Management System
 # This project stores basic student information and allows the user
-# to add, update, delete and search students. (Simple file-based system)
+# to add, update, delete and search students. 
 
 students = []   # list to store student data
 
